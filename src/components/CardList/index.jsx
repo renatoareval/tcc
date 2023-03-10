@@ -22,6 +22,7 @@ export default function CardList() {
                     titulo={c.titulo}
                     autor={c.autor}
                     orientador={c.orientador}
+                    capa={c.capa}
                 />
             ))}
         </div>
